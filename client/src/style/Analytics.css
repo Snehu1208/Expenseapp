@@ -1,0 +1,57 @@
+/* analytics.css */
+
+/* Card container styles */
+.card {
+    margin-bottom: 20px; /* Add margin between cards */
+  }
+  
+  /* Card header styles */
+  .card-header {
+    background-color: #007bff; /* Header background color */
+    color: #fff; /* Header text color */
+    padding: 10px; /* Padding for the header */
+    font-weight: bold; /* Bold font weight for the header */
+  }
+  
+  /* Card body styles */
+  .card-body {
+    padding: 20px; /* Padding for the card body */
+  }
+  
+  /* Text styles for total transactions */
+  .text-success {
+    color: green; /* Green text color for income */
+    margin-bottom: 10px; /* Add margin below the text */
+  }
+  
+  .text-danger {
+    color: red; /* Red text color for expense */
+    margin-bottom: 10px; /* Add margin below the text */
+  }
+  
+  /* Progress bar styles */
+  .mx-2 {
+    margin-left: 10px; /* Add margin to the left of each progress bar */
+    margin-right: 10px; /* Add margin to the right of each progress bar */
+  }
+  
+  /* Category card styles */
+  .card {
+    border: 1px solid #dee2e6; /* Add border to category cards */
+  }
+  
+  /* Category card body styles */
+  .card-body {
+    padding: 10px; /* Padding for category card body */
+  }
+  
+  /* Category title styles */
+  h4 {
+    margin-bottom: 20px; /* Add margin below category titles */
+  }
+  
+  /* Progress bar inside category card styles */
+  .Progress {
+    margin-top: 10px; /* Add margin to the top of progress bars */
+  }
+  
